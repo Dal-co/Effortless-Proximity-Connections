@@ -1,0 +1,2 @@
+# Effortless-Proximity-Connections
+I am working on a software that allows for communications through the telephones mic and speakers with other phones running the software within certain interchangeable distances. The main idea has to do with breaking down the walls that are put up as we enter cars... this would allow people in two or more separate vehicles to communicate with each other quickly and easily. Please contact me if you would like to be apart of making this into a reality or if you know anyone that can help out or point me in the right direction. Thanks 
